@@ -1,0 +1,26 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "sistema de produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanGuimaraes/storm-webb.git"
+  },
+  "keywords": [
+    "produtos",
+    "gerenciador",
+    "de",
+    "produtos",
+    "storm"
+  ],
+  "author": "Felipe Guimaraes Aldana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VanGuimaraes/storm-webb/issues"
+  },
+  "homepage": "https://github.com/VanGuimaraes/storm-webb#readme"
+}
