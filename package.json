@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/VanGuimaraes/storm-webb/issues"
   },
-  "homepage": "https://github.com/VanGuimaraes/storm-webb#readme"
+  "homepage": "https://github.com/VanGuimaraes/storm-webb#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
